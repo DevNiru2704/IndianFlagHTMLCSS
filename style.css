@@ -1,0 +1,107 @@
+
+#flag-pole{
+    height: 1400px;
+    width: 10px;
+    background: black;
+    position: absolute;
+    left: 100px;
+}
+
+.flag{
+    border: 10px solid black;
+    height: 600px;
+    width: 800px;
+    position:absolute;
+    left: 100px;
+}
+
+#upper-section{
+    background-color: rgb(230, 130, 16);
+    height: 200px;
+    width: 800px;
+    
+}
+
+#middle-section{
+    background-color: white;
+    height: 200px;
+    width: 800px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bottom-section{
+    background-color: rgb(20, 150, 10);
+    height: 200px;
+    width: 800px;
+}
+
+#circle{
+    background-color: white;
+    border: 11px solid rgb(9, 17, 155);
+    height:150px;
+    width: 150px;
+    position: relative;
+    left: 3px;
+    bottom:3px;
+    border-radius:50%;
+}
+
+.lines{
+    background-color: rgb(9, 17, 155);
+    height:150px;
+    width:4px;
+    position:absolute;
+    left:73px
+}
+
+#line1{
+    transform: rotate(0deg);
+}
+
+#line2{
+    transform: rotate(15deg);
+}
+
+#line3{
+    transform: rotate(30deg);
+}
+
+#line4{
+    transform: rotate(45deg);
+}
+
+#line5{
+    transform: rotate(60deg);
+}
+
+#line6{
+    transform: rotate(75deg);
+}
+
+#line7{
+    transform: rotate(90deg);
+}
+
+#line8{
+    transform: rotate(105deg);
+}
+
+#line9{
+    transform: rotate(120deg);
+}
+
+#line10{
+    transform: rotate(135deg);
+}
+
+#line11{
+    transform: rotate(150deg);
+}
+
+#line12{
+    transform: rotate(165deg);
+}
+
+
